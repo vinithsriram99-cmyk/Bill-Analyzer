@@ -1,0 +1,23 @@
+THE DIGITAL HEALTH RECORDS (PROTECTION) BILL, 2026
+(Introduced by the Minister of Health and Family Welfare)
+Ministry of Health and Family Welfare
+
+STATEMENT OF OBJECTS AND REASONS
+
+Hospitals, clinics, diagnostic laboratories and health insurers in India now store the medical records of patients in digital form. These records contain sensitive personal data about the health of citizens, and some of it is shared with private companies without the consent of the patient. The Information Technology Act, 2000 does not contain special protection for health data. The Clinical Establishments (Registration and Regulation) Act, 2010 requires hospitals to maintain patient records but does not say how digital records must be secured. The Departmental Standing Committee on Health and Family Welfare, in its report of 2024, recommended a dedicated law to protect digital health records. The Digital Health Records (Protection) Bill, 2026 seeks to protect patient privacy, build trust in digital healthcare and set clear duties for every hospital and clinic.
+
+A BILL to protect digital health records of patients and to provide for matters connected therewith.
+
+1. Short title and commencement. This Act may be called the Digital Health Records (Protection) Act, 2026. It shall come into force on such date as the Central Government may, by notification, appoint.
+
+2. Registration. Every hospital, clinic and laboratory that stores patient records in digital form shall register with the Digital Health Authority within a period of six months. The registration fee shall be as may be prescribed.
+
+3. Consent of the patient. No hospital or medical practitioner shall share the personal data of a patient with any other person without the clear consent of the patient.
+
+4. Security audit. Every registered hospital shall conduct an annual security audit and submit an annual return to the Authority. The Authority may inspect the records of a hospital in the public interest.
+
+5. Penalty. Any person who sells or leaks the health data of a patient shall be punishable with imprisonment which may extend to three years, or with fine which may extend to five lakh rupees, or with both. The offence shall be cognizable and non-bailable.
+
+6. Powers of the Central Government. The Central Government may, by order, exempt any hospital run by the armed forces from the provisions of this Act, in the interest of national security.
+
+7. Rules. The Central Government may, by notification, make rules to carry out the purposes of this Act. Rules shall be framed within one year of the commencement of this Act.
